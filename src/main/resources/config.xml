@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PizzaFinderPrefs>
+	<!--Ontologia utilizada de Stanford -->
+    <OntologyLocation url="http://protege.stanford.edu/ontologies/pizza/pizza.owl"/>
+	<PizzaClass name="http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza"/>
+	<!--Tipos de piza-->
+	<VegetarianPizzaClass name="http://www.co-ode.org/ontologies/pizza/pizza.owl#VegetarianPizza"/>
+	<SpicyPizzaClass name="http://www.co-ode.org/ontologies/pizza/pizza.owl#SpicyPizza"/>
+	<!--Tipos de bases y coberturas-->
+	<ToppingClass name="http://www.co-ode.org/ontologies/pizza/pizza.owl#PizzaTopping"/>
+	<BaseClass name="http://www.co-ode.org/ontologies/pizza/pizza.owl#PizzaBase"/>
+	<BaseProperty name="http://www.co-ode.org/ontologies/pizza/pizza.owl#hasBase"/>
+    <PizzaSizeProperty name="http://www.co-ode.org/ontologies/pizza/pizza.owl#hasPizzaSize"/>
+    <Language name="en"/>
+</PizzaFinderPrefs>
