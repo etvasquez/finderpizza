@@ -11,6 +11,7 @@ _Este proyecto presenta la adaptación de un recomendador de pizzas desarrollado
 ## Módulo Recomendador(Erika Vázquez, Karen Torres)📋
 ## Módulo Visualizador(Stalin Carrión, María Paula Jaramillo)📋
 ### Stalin Carrión
+voy a documentar los scripts BannerPanel, BaseListPanel, BasePanel, BasesPanel, ExcludeBaseListPanel
 ### María Paula Jaramillo
 
 ## Capturas 📖
