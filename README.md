@@ -7,9 +7,11 @@ _Este proyecto presenta la adaptación de un recomendador de pizzas desarrollado
 * **Karen Torres** 
 * **María Paula Jaramillo** 
 * **Erika Vásquez** 
-## Manchester (Erika Vázquez, Karen Torres)📋
+## Manchester ontología Pizzas📋
 ## Módulo Recomendador(Erika Vázquez, Karen Torres)📋
-## Módulo Visualizador(Stalin Carrión, Maria Paula Jaramillo)📋
+## Módulo Visualizador(Stalin Carrión, María Paula Jaramillo)📋
+### Stalin Carrión
+### María Paula Jaramillo
 
 ## Capturas 📖
 ### Pantalla Principal del Recomendador de pizzas
