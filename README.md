@@ -34,7 +34,16 @@ voy a documentar los scripts BannerPanel, BaseListPanel, BasePanel, BasesPanel, 
 ### María Paula Jaramillo
 ### Clase IncludeBaseList
 ![](https://github.com/etvasquez/finderpizza/blob/master/includeBase.PNG)
+
 Esta clase contiene dos atributos que son choiceModel y selectable. Además, contiene dos acciones que pueden ser añadir o remover, y cada vez que la acción añadir (add) sea realizada, el atributo selectable selecciona la opción, al final existe un método que recibe la ontología, el modelo elegido y las selecciones y se llamada al método crear UI para que se presente en pantalla.
+### Clase BasesChooserPanel
+![](https://github.com/etvasquez/finderpizza/blob/master/BasesChooser.PNG)
+
+Esta clase permite realizar la interfaz para la selección de bases. tiene un método createUI(), que permite agregar el panel donde se envía la ontología, la clase PanelBase, y el modelo elegido, además se añade las clases IncludeBaseList y ExcludeBaseList, explicadas anteriormente.
+
+![](https://github.com/etvasquez/finderpizza/blob/master/BasesChooser1.PNG)
+
+contiene un método setupQueryPanel() que es el que realiza la unión entre los include y los exclude, además, permite presentar el resultado en la aplicación (GUI principal.)
 ## Resultados 📖
 Para iniciar el programa, se ejecuta la clase PizzaApplication. Aparecerá una pantalla donde se indica que se está cargando la información.
 ### Pantalla Principal del Recomendador de pizzas
