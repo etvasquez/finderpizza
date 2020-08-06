@@ -32,7 +32,9 @@ Obtiene las pizzas que coinciden con el requisito de incluido y excluido.
 ### Stalin Carrión
 voy a documentar los scripts BannerPanel, BaseListPanel, BasePanel, BasesPanel, ExcludeBaseListPanel
 ### María Paula Jaramillo
-
+### Clase IncludeBaseList
+![](https://github.com/etvasquez/finderpizza/blob/master/includeBase.PNG)
+Esta clase contiene dos atributos que son choiceModel y selectable. Además, contiene dos acciones que pueden ser añadir o remover, y cada vez que la acción añadir (add) sea realizada, el atributo selectable selecciona la opción, al final existe un método que recibe la ontología, el modelo elegido y las selecciones y se llamada al método crear UI para que se presente en pantalla.
 ## Resultados 📖
 Para iniciar el programa, se ejecuta la clase PizzaApplication. Aparecerá una pantalla donde se indica que se está cargando la información.
 ### Pantalla Principal del Recomendador de pizzas
