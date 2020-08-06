@@ -33,10 +33,14 @@ Obtiene las pizzas que coinciden con el requisito de incluido y excluido.
 voy a documentar los scripts BannerPanel, BaseListPanel, BasePanel, BasesPanel, ExcludeBaseListPanel
 ### María Paula Jaramillo
 
-## Capturas 📖
+## Resultados 📖
+Para iniciar el programa, se ejecuta la clase PizzaApplication. Aparecerá una pantalla donde se indica que se está cargando la información.
 ### Pantalla Principal del Recomendador de pizzas
 ![](https://github.com/etvasquez/finderpizza/blob/master/PantallaPrincipal.JPG)
+
+Una vez que se ha cargado la información, aparecerá un panel con las bases, además de un recuadro donde se puede incluir bases o excluir. De esta manera, la búsqueda se realizará de la manera más exacta posible para recomendar la pizza deseada.
 ### Pantalla: Panel de selección de bases
 ![](https://github.com/etvasquez/finderpizza/blob/master/PanelBases.JPG)
+Una vez que se ha realizado la búsqueda, se visualizan todas las pizza que cumplan con las características que se seleccionó anteriormente.
 ### Pantalla: Visualizar pizzas
 ![](https://github.com/etvasquez/finderpizza/blob/master/PresentarPizzas.JPG)
