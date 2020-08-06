@@ -1,5 +1,6 @@
 # Proyecto_Recomendador de Pizzas
-_Este proyecto presenta la adaptación de un recomendador de pizzas desarrollado por la Universidad de Manchester, utilizando la lógica de programación de la universidad se obtuvo la búsqueda de pizzas por Topping y se agrego el componente de búsqueda de pizzas por Base. Y finalmente se presento los resultados de las pizzas que contienen las Bases o Topping que se selecciono._
+_Este proyecto presenta la adaptación de un recomendador de pizzas desarrollado por la Universidad de Manchester(https://github.com/owlcs/pizzafinder), utilizando la lógica de programación de la universidad se obtuvo la búsqueda de pizzas por Topping y se agrego el componente de búsqueda de pizzas por Base. Y finalmente se presento los resultados de las pizzas que contienen las Bases o Topping que se selecciono._
+_Mediante este proyecto se presenta una aplicación de la ontología desarrollada por la Universidad de Standford utilizando Protege, actividad que se realizó en el proyecto anterior._
 
 ## Integrantes ✒️
 
