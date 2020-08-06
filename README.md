@@ -44,6 +44,7 @@ Esta clase permite realizar la interfaz para la selección de bases. tiene un m�
 ![](https://github.com/etvasquez/finderpizza/blob/master/BasesChooser1.PNG)
 
 contiene un método setupQueryPanel() que es el que realiza la unión entre los include y los exclude, además, permite presentar el resultado en la aplicación (GUI principal.)
+
 ## Resultados 📖
 Para iniciar el programa, se ejecuta la clase PizzaApplication. Aparecerá una pantalla donde se indica que se está cargando la información.
 ### Pantalla Principal del Recomendador de pizzas
@@ -52,6 +53,7 @@ Para iniciar el programa, se ejecuta la clase PizzaApplication. Aparecerá una p
 Una vez que se ha cargado la información, aparecerá un panel con las bases, además de un recuadro donde se puede incluir bases o excluir. De esta manera, la búsqueda se realizará de la manera más exacta posible para recomendar la pizza deseada.
 ### Pantalla: Panel de selección de bases
 ![](https://github.com/etvasquez/finderpizza/blob/master/PanelBases.JPG)
+
 Una vez que se ha realizado la búsqueda, se visualizan todas las pizza que cumplan con las características que se seleccionó anteriormente.
 ### Pantalla: Visualizar pizzas
 ![](https://github.com/etvasquez/finderpizza/blob/master/PresentarPizzas.JPG)
