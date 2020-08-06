@@ -29,9 +29,6 @@ Aquí lo que hace el resoner es hacer un test para ver si la clase especificada 
 ![](https://github.com/etvasquez/finderpizza/blob/master/CollectionPizzaClass.JPG)
 Obtiene las pizzas que coinciden con el requisito de incluido y excluido.
 ## Módulo Visualizador(Stalin Carrión, María Paula Jaramillo)📋
-### Stalin Carrión
-voy a documentar los scripts BannerPanel, BaseListPanel, BasePanel, BasesPanel, ExcludeBaseListPanel
-### María Paula Jaramillo
 ### Clase IncludeBaseList
 ![](https://github.com/etvasquez/finderpizza/blob/master/includeBase.PNG)
 
