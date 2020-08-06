@@ -13,7 +13,7 @@ _Este proyecto presenta la adaptación de un recomendador de pizzas desarrollado
 ### Stalin Carrión
 voy a documentar los scripts BannerPanel, BaseListPanel, BasePanel, BasesPanel, ExcludeBaseListPanel
 ### María Paula Jaramillo
-
+About Panel, AboutDialog, IncludeBases
 ## Capturas 📖
 ### Pantalla Principal del Recomendador de pizzas
 ![](https://github.com/etvasquez/finderpizza/blob/master/PantallaPrincipal.JPG)
